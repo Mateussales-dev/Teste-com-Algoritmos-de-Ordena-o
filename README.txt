@@ -1,0 +1,1 @@
+Execute os arquivos java pelo terminal ou por sua IDE de preferência.
